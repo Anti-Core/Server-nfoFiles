@@ -1,0 +1,2 @@
+[Netvars]
+dwLocalPlayer = 0xE923;
